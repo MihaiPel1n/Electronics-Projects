@@ -1,0 +1,167 @@
+Circuit: * C:\Users\Mihai\Desktop\UTCN\AN3\SEM I\SCIAA\RaportFinal_PelinMihai\Compensare ordin 2\ProiectSCIAACircuit.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+WARNING: Node NC_01 is floating.
+
+WARNING: Less than two connections to node NC_01.  This node is used by M:X4:IN2.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+Gmin = 1.76685e-007
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 79.5928%
+Source Step = 79.6697%
+Source Step = 79.6993%
+Source Step = 79.7289%
+Source Step = 79.7585%
+Source Step = 79.7881%
+vernier = 0.00146484
+Source Step = 79.8192%
+Source Step = 79.8636%
+Source Step = 79.908%
+Source Step = 79.9524%
+Source Step = 79.9967%
+Source Step = 80.0411%
+vernier = 0.00219727
+Source Step = 80.1077%
+Source Step = 80.1743%
+Source Step = 80.2409%
+Source Step = 80.3075%
+Source Step = 80.3741%
+vernier = 0.0032959
+Source Step = 80.4706%
+Source Step = 80.5705%
+Source Step = 80.6704%
+Source Step = 80.7702%
+Source Step = 80.8701%
+vernier = 0.00494385
+Source Step = 81.0099%
+Source Step = 81.1597%
+Source Step = 81.3096%
+Source Step = 81.4594%
+Source Step = 81.6092%
+vernier = 0.00741577
+Source Step = 81.8114%
+Source Step = 82.0362%
+Source Step = 82.2609%
+Source Step = 82.4856%
+Source Step = 82.7103%
+vernier = 0.0111237
+Source Step = 83.0024%
+Source Step = 83.3395%
+Source Step = 83.6766%
+Source Step = 84.0137%
+Source Step = 84.3508%
+vernier = 0.0166855
+Source Step = 84.7721%
+Source Step = 85.2777%
+Source Step = 85.7834%
+Source Step = 86.289%
+Source Step = 86.7946%
+vernier = 0.0250282
+Source Step = 87.4013%
+Source Step = 88.1598%
+Source Step = 88.9182%
+Source Step = 89.6766%
+Source Step = 90.3023%
+vernier = 0.00156426
+Source Step = 90.3308%
+Source Step = 90.3782%
+Source Step = 90.4256%
+Source Step = 90.473%
+Source Step = 90.5204%
+Source Step = 90.5678%
+Source Step = 90.6152%
+Source Step = 90.6626%
+Source Step = 90.71%
+Source Step = 90.7574%
+Source Step = 90.8048%
+Source Step = 90.8522%
+vernier = 0.0023464
+Source Step = 90.9091%
+Source Step = 90.9802%
+Source Step = 91.0513%
+Source Step = 91.1224%
+Source Step = 91.1935%
+vernier = 0.00351959
+Source Step = 91.2753%
+Source Step = 91.3819%
+Source Step = 91.4886%
+Source Step = 91.5952%
+Source Step = 91.7019%
+vernier = 0.00527939
+Source Step = 91.8192%
+Source Step = 91.9792%
+Source Step = 92.1392%
+Source Step = 92.2992%
+Source Step = 92.4591%
+vernier = 0.00791909
+Source Step = 92.6271%
+Source Step = 92.8671%
+Source Step = 93.1071%
+Source Step = 93.347%
+Source Step = 93.587%
+Source Step = 93.827%
+vernier = 0.0118786
+Source Step = 94.1869%
+Source Step = 94.5469%
+Source Step = 94.9069%
+Source Step = 95.2668%
+Source Step = 95.6268%
+vernier = 0.0178179
+Source Step = 96.1487%
+Source Step = 96.6887%
+Source Step = 97.2286%
+Source Step = 97.7685%
+Source Step = 98.3085%
+vernier = 0.0267269
+Source Step = 99.0644%
+Source Step = 99.8743%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Wed Feb 25 01:19:52 2026
+Total elapsed time: 0.328 seconds.
+
+tnom = 27
+temp = 150.1
+method = trap
+totiter = 15481
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 25
+fillins = 24
+solver = Normal
+Matrix Compiler1:     250 opcodes  0.5/0.3/[0.2]
+Matrix Compiler2: 3.20 KB object code size  0.2/0.3/[0.1]
+
