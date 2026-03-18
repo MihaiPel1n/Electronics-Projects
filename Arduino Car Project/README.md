@@ -47,6 +47,15 @@ The project is divided into two main parts:
 
   * Forward movement
   * Backward movement
+
+<p align="center">
+  <img src="Arduino-Car-Project/1.jpg" width="300">
+  <img src="Arduino-Car-Project/2.jpg" width="300">
+</p>
+
+![Arduino Car Project](2.jpg)
+![Arduino Car Project](3.jpg)
+![Arduino Car Project](4.jpg)
   * توقف (stop state)
 
 ## How It Works
